@@ -1,6 +1,10 @@
+## 👩‍💻 Sobre o Projeto
+
+Este aplicativo foi desenvolvido como parte de uma trilha de aprendizado em Flutter, oferecida pelo Instituto de Pesquisa Venturus. O objetivo foi colocar em prática conceitos essenciais do Flutter, como navegação, gerenciamento de estado, theming e manipulação de dados, através da criação de um app funcional para gerenciamento de séries de TV com dados mockados.
+
 # 🎬 TV Show Manager - App Flutter
 
-Um app Flutter simples e funcional para gerenciar suas séries favoritas com dados mockados. Você pode **adicionar, editar, excluir e avaliar** séries de TV, além de visualizar detalhes como onde assistir e um resumo da trama. O app também conta com alternância de tema entre **modo claro e escuro**, utilizando **GoRouter** para navegação e **Provider** para gerenciamento de estado.
+Você pode **adicionar, editar, excluir e avaliar** séries de TV, além de visualizar detalhes como onde assistir e um resumo da trama. O app também conta com alternância de tema entre **modo claro e escuro**, utilizando **GoRouter** para navegação e **Provider** para gerenciamento de estado.
 
 ---
 
